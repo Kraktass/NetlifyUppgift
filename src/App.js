@@ -13,7 +13,7 @@ function App() {
   };
 
   const changeBackgroundColorHandler = () => {
-    changeBackgroundColor('red');
+    changeBackgroundColor('green');
   };
 
   const text = "This text is made uppercase from an NPM package";
